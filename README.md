@@ -103,10 +103,6 @@ The service should connect to both suppliers using HTTP.
 
 **Please, clone this repository and provide your on repository with the solution to the interviewer.**
 
-**Extra Plus**
-
-- Docker, Pipeline file (Jenkins, Circle CI, Others)
-- Use AWS Lambda or Serverless Framework
 
 **PLEASE, READ THE REQUIREMENTS CAREFULY.**
 
